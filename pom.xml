@@ -47,12 +47,6 @@
         <crypto.tink.version>1.7.0</crypto.tink.version>
         <docker.image.prefix>dschadow</docker.image.prefix>
         <failOnMissingWebXml>false</failOnMissingWebXml>
-        <sonar.host.url>http://13.250.63.212:9000/</sonar.host.url>
-        <sonar.login>6f60db41039f24b4322aa5e3396b12fdb06ed259</sonar.login>
-         <!--
-        <sonar.login>admin</sonar.login>
-        <sonar.password>admin</sonar.password>
-       -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>17</java.version>
